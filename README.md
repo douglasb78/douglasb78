@@ -5,7 +5,7 @@
 <strong>Web:</strong><br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,flask,django)](https://skillicons.dev) <br/><br/>
 <strong>Desktop:</strong><br/>
-[![My Skills](https://skillicons.dev/icons?i=c,go,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,go,java)](https://skillicons.dev)
 
 ##  
 
